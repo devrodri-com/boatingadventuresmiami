@@ -1,0 +1,6 @@
+.env -diff
+.env.* -diff
+.env.example diff
+src/.env -diff
+src/.env.* -diff
+src/.env.example diff
